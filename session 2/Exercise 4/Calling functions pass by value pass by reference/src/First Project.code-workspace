@@ -1,0 +1,36 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../First Project"
+		},
+		{
+			"path": "../../../../../../Users/Oumar/OneDrive/Desktop/ESW"
+		},
+		{
+			"path": "../../../../../../Users/Oumar/OneDrive/Desktop/ESW/Exercises"
+		},
+		{
+			"name": "Exercise 1",
+			"path": "../../../Exercise 1"
+		},
+		{
+			"name": "Exercise1.2",
+			"path": "../../../Exercise 1.2/Exercise1.2"
+		},
+		{
+			"name": "Working with SCANF",
+			"path": "../../../Exercise 2/Working with SCANF"
+		},
+		{
+			"name": "Working with integers floats and doubles",
+			"path": "../../../Exercise 3/Working with integers floats and doubles"
+		},
+		{
+			"name": "Calling functions pass by value pass by reference",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Working with integers floats and doubles"
+	}
+}
